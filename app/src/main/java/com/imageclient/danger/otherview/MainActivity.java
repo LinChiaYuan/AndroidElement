@@ -143,7 +143,6 @@ public class MainActivity extends AppCompatActivity
             }
         });
 
-
         mSwitch = (Switch) findViewById(R.id.switch1);
         mSwitch.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener()
         {
