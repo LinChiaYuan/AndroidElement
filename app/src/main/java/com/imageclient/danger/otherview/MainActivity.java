@@ -1,5 +1,11 @@
 package com.imageclient.danger.otherview;
-
+/**
+ *
+ *  author  :   Chia Yuan Lin (林家源)
+ *
+ *  email   :   lo919201@gmail.com
+ *
+ * **/
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.support.annotation.NonNull;
